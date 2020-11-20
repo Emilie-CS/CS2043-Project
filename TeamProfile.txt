@@ -1,0 +1,32 @@
+Team Profile
+
+Member 1
+Identity: Ronan Boyd
+Qualifications: Java
+Strength: Programming
+Role: NA at the moment
+
+Member 2
+Identity: Syed Saeed
+Qualifications: System Design 
+Strength: System Analyst
+Role: Developer Team Member
+
+Member 3
+Identity: Josh Hickman
+Qualifications: Java, Matlab
+Strength: Programming
+Role: NA at the moment
+
+Member 4
+Identity: Nathan Young
+Qualifications: Java
+Strength: Programming, Attention to detail
+Role: NA at the moment
+
+Member 5
+Identity: Emilie Ouellette
+Qualifications: Java
+Strength: Planning, Documentation
+Role: NA at the moment
+
